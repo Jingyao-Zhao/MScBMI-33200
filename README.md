@@ -14,6 +14,9 @@ Also, we proved for each of numerical feature which is independent with the othe
 
 <img src="https://user-images.githubusercontent.com/114511149/197402979-70999dd9-f1e8-4eed-a924-a2cf4cca7d7e.png" width=50% height=50%>
 
+Box-whisker plots of different levels of proteins in different types of breast cancer.
+<img src="https://user-images.githubusercontent.com/114511149/197415517-59f1d7f0-f343-465a-a77c-8936de380c70.png" width=50% height=50%>
+
 # Machine learning 
 
 First we encoded categorical data values by using LabelEncoder to labelize the categorical data. It is used to convert categorical data into numbers.
